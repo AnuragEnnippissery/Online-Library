@@ -1,4 +1,9 @@
 # Online-Library
+In this application the user is able to view the books , filter the books by fiction , non-fiction , scifi.
+The user is also able to serch by the user title and author name .
+If the user is interested they can add a new book to the current collection with the help of add a book page.
+This functionality is made by react-redux library.
+There is also a error Page designed to navigate the user to the respective appication (Home Page) .
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
