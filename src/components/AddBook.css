@@ -1,0 +1,10 @@
+.form-content{
+    display:flex;
+    flex-direction: column;
+    background-color: lightpink;
+    justify-content: center;
+    align-items: center;
+    max-width: 500px;
+    gap:10px;
+    
+}
